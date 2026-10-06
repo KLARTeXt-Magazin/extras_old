@@ -252,9 +252,9 @@ const tracks: AudioTrack[] = [
       "Materialstudie aus gerafftem mitternachtsblauem Stoff, lavendelfarbenem Band und mintfarbenem Stein",
     coverWord: "ANSPANNEN. LOSLASSEN.",
     src:
-      "/audio/2026-q4_extra03.m4a",
+      "/audio/2026-q4_extra04.m4a",
     credit:
-      "Music by ",
+      "Music by Mikhail Vereitinov from Pixabay · Content License Pixabay.",
   },
 ];
 
